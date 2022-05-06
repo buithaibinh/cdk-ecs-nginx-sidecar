@@ -42,7 +42,6 @@ Run `./deploy.sh` to deploy the backend stack.
 - Run `./diff.sh`   to compare deployed stack with current state
 - Run `./synth.sh`  to display the generated CloudFormation script from the CDK code
 
-- Run `./build.sh`  to compile all packages
 - Run `./cdk-clean.sh`  to clean all cloudformation resources
 
 ## Modules
